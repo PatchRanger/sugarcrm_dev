@@ -1,0 +1,14 @@
+{
+    "name": "sugarcrm/sugarcrm_dev",
+    "description": "SugarCRM",
+    "keywords": [
+        "SugarCRM",
+        "CRM"
+    ],
+    "homepage": "http://www.sugarcrm.com/",
+    "type": "library",
+    "support": {
+        "issues": "https://github.com/sugarcrm/sugarcrm_dev/issues?state=open",
+        "source": "https://github.com/sugarcrm/sugarcrm_dev"
+    }
+}
